@@ -9,11 +9,11 @@ As per The Economic Times and CNBC, the brand had an average sales of 650,000 pr
 <p>Project build date : Construct week (21st Feb - 27th Feb)</p>
 
 <p>
-Blog:https://medium.com/@abhinav805/bewakoof-com-clone-70a26cf03ee7
+Blog : https://medium.com/@abhinav805/bewakoof-com-clone-70a26cf03ee7
 
-Github ripository:https://github.com/abhinavBisht94/bewakoof-clone-u2
+Github ripository : https://github.com/abhinavBisht94/bewakoof-clone-u2
 
-Github hosted website link: https://abhinavbisht94.github.io/bewakoof-clone-u2
+Github hosted website link : https://abhinavbisht94.github.io/bewakoof-clone-u2
 </p>
 
 <br/>
